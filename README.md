@@ -1,14 +1,14 @@
-# Case Competitions
+# Case Competitions Portfolio
 
-A central repository documenting various business and technology case competitions participated in, featuring analysis, pitch decks, and problem-solving frameworks.
+A centralized repository of analysis, strategic frameworks, and presentations developed during various international and domestic business case competitions.
 
-## Focus Areas
+## Domains Covered
 
-- **Market Entry Strategy**: Identifying and evaluating growth opportunities in new markets.
-- **Product Strategy**: Roadmap development and feature prioritization.
-- **Financial Modeling**: Cost-benefit analysis and ROI projections.
-- **Impact Analysis**: Measuring the social and business outcomes of proposed solutions.
+- **Market Entry Strategy**: Identifying and evaluating growth opportunities in emerging markets.
+- **Product Strategy & Design**: Roadmap development, feature prioritization, and user-centric design paradigms.
+- **Financial Projections**: ROI analysis, cost optimization models, and revenue forecasting.
+- **Social Impact Analysis**: Measuring the broader societal effects of proposed business solutions.
 
 ## Format
 
-This repository includes PDF presentations, research notes, and financial models for each competition.
+Includes PDF summaries, research decks, and financial modeling spreadsheets.
